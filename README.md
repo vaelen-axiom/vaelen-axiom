@@ -1,48 +1,75 @@
-# VAELEN
+# VAELEN — Michael Abiye
 
-Builder identity and product layer.
+**Builder · Founder · Systems Thinker**
 
-I build systems carefully, ship what is ready, and keep long-horizon work honest about what evidence can and cannot establish.
+I build software systems and study markets, AI, quantitative research, evidence, and uncertainty.
 
----
+Founder of **ADMISSOR**, where I am building **AXIOM** — an evidence-driven market-intelligence and research system designed around explicit evidence, temporal integrity, provenance, and principled refusal when a conclusion is not warranted.
 
-## Shipped
-
-### [VAELEN 2048](https://vaelen-2048.vercel.app/)
-
-A deliberately built, production-shipped 2048 game.
-
-- **Live:** [https://vaelen-2048.vercel.app/](https://vaelen-2048.vercel.app/)
-- **Repository:** [vaelen-axiom/vaelen-2048](https://github.com/vaelen-axiom/vaelen-2048)
-- **Role:** standalone product and proof of execution — idea → implementation → QA → deployment
-
-VAELEN 2048 is **not** part of the AXIOM trading engine. It shares VAELEN’s visual discipline and shipping standard, nothing more.
+🌐 **Portfolio:** https://vaelen-axiom.com  
+🔬 **ADMISSOR / AXIOM:** https://www.getadmissor.com
 
 ---
 
-## Systems
+## What I'm working on
 
-| | |
-| --- | --- |
-| **VAELEN** | Builder identity / product layer |
-| **VAELEN 2048** | Shipped standalone product |
-| **ADMISSOR** | Broader system and master chronicle |
-| **AXIOM** | Research / trading framework for reasoning under uncertainty |
+### ADMISSOR / AXIOM
+Market intelligence and research infrastructure for reasoning under uncertainty.
 
-**ADMISSOR** is the larger body of work — product surface, architecture, and chronicle around constrained decision systems.
+Current work includes:
 
-**AXIOM** is the underlying research and trading framework: evidence before conviction, temporal integrity, and principled refusal when a claim is not warranted.
+- evidence-governed market determination
+- temporal integrity and no-hindsight analysis
+- observable-universe design
+- explicit uncertainty and refusal
+- provenance and reproducibility
+- prospective evaluation and calibration
+- market and quantitative research
 
-They are related. They are not the same thing as a finished game on the public internet.
+### Other systems
 
----
-
-## Also building
-
+- **BUJRIDE** — mobility infrastructure
+- **Eudora Bead** — commerce
 - **Deploychain** — Bitcoin infrastructure
-- **BUJRIDE** — mobility
-- **Eudora Beads** — commerce
+- **VAELEN** — my builder identity and portfolio
+- **VAELEN 2048** — shipped standalone product
 
 ---
 
-> Principle before prediction.
+## How I work
+
+I care about the difference between a system that *looks intelligent* and one whose behavior can actually be inspected and evaluated.
+
+My current shift is from simply building systems to studying them:
+
+> What did the system observe?  
+> When was that evidence actually available?  
+> What conclusion did the evidence permit?  
+> What happened afterward?  
+> Does the methodology hold up over time?
+
+That process — build, observe, test, document, refine — is what I am documenting here.
+
+---
+
+## Engineering
+
+**Languages & application development**  
+TypeScript · JavaScript · React · Node.js · REST APIs
+
+**Data & backend**  
+PostgreSQL · Neon · Supabase · database design · row-level security · data pipelines
+
+**Cloud & delivery**  
+Git · GitHub · Vercel · Railway · testing · production validation
+
+**Research**  
+Market structure · multi-timeframe analysis · forecasting · calibration · prospective evaluation
+
+---
+
+## Current principle
+
+> **Principle before prediction.**
+
+The repositories below are the evidence trail.
